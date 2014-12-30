@@ -1,0 +1,17 @@
+Resources Used:
+
+1. W3 Schools site for syntax reference
+	http://www.w3schools.com/css/css_syntax.asp
+
+2. MDN
+	https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+
+3. CSS Tricks for line spacing usage
+	http://css-tricks.com/almanac/properties/l/line-height/
+
+4. Change bootstrap framework gutter width
+	https://scotch.io/bar-talk/bootstrap-3-tips-and-tricks-you-still-might-not-know
+
+5. Piazza post discussing the auto grader: 
+	sometimes the mockup shows up in yellow, sometimes student code shows up in yellow.
+	https://piazza.com/class/i23vpy8h7l27la

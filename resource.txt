@@ -15,3 +15,11 @@ Resources Used:
 5. Piazza post discussing the auto grader: 
 	sometimes the mockup shows up in yellow, sometimes student code shows up in yellow.
 	https://piazza.com/class/i23vpy8h7l27la
+
+6. Bootstrap site:
+	http://getbootstrap.com/css/
+
+7. Validators:
+	http://validator.w3.org/
+	http://jigsaw.w3.org/css-validator/
+
